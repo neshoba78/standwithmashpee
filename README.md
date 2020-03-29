@@ -20,6 +20,10 @@ Kutâputunumuw;
 Chairman Cedric Cromwell
 Qaqeemasq (Running Bear)
 
+### H.R.312 - Mashpee Wampanoag Tribe Reservation Reaffirmation Act
+
+- https://www.congress.gov/bill/116th-congress/house-bill/312
+
 ### Wôpanâak Language Reclamation Project, Stand With the Mashpee Wampanoag Tribe
 
 - https://sign.moveon.org/petitions/stand-with-the-mashpee?fbclid=IwAR3ywOVe0y54HxEbWhOL7J-NH4trvQaOhh-jK5noSlUPVqDAujNCZbld7h8
