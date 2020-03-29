@@ -28,3 +28,9 @@ Qaqeemasq (Running Bear)
 
 - https://mashpeewampanoagtribe-nsn.gov/standwithmashpee
 
+### Broad Impacts
+
+- Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs
+    - https://www.federalregister.gov/documents/2020/01/30/2020-01707/indian-entities-recognized-by-and-eligible-to-receive-services-from-the-united-states-bureau-of
+- Table of Populations and Reservation Size
+    - https://docs.google.com/spreadsheets/d/10UOMGQ2K6ozK041rgXpEC946lG3gNNS5aKRoXx3ZiNk/edit?usp=sharing
