@@ -38,3 +38,6 @@ Qaqeemasq (Running Bear)
     - https://www.federalregister.gov/documents/2020/01/30/2020-01707/indian-entities-recognized-by-and-eligible-to-receive-services-from-the-united-states-bureau-of
 - Table of Populations and Reservation Size with Senators
     - https://docs.google.com/spreadsheets/d/10UOMGQ2K6ozK041rgXpEC946lG3gNNS5aKRoXx3ZiNk/edit?usp=sharing
+    
+### News and Information
+1. Levine, E., Mitchell, J., & Walters, Q. (2020, March 28). Secretary Of Interior Orders Mashpee Wampanoag Reservation “Disestablished,” Tribe Says. WBUR News. https://www.wbur.org/news/2020/03/28/mashpee-wampanoag-reservation-secretary-interior-land-trust
