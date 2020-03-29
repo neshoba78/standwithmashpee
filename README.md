@@ -26,7 +26,7 @@ Qaqeemasq (Running Bear)
 
 ### Wôpanâak Language Reclamation Project, Stand With the Mashpee Wampanoag Tribe
 
-- https://sign.moveon.org/petitions/stand-with-the-mashpee?fbclid=IwAR3ywOVe0y54HxEbWhOL7J-NH4trvQaOhh-jK5noSlUPVqDAujNCZbld7h8
+- https://sign.moveon.org/petitions/stand-with-the-mashpee
 
 ### Mashpee Wampanoag Tribe, &#35;StandWithMashpee
 
