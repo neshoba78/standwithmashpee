@@ -90,4 +90,5 @@ Qaqeemasq (Running Bear)
 
 ### News and Information
 1. Levine, E., Mitchell, J., & Walters, Q. (2020, March 28). Secretary Of Interior Orders Mashpee Wampanoag Reservation “Disestablished,” Tribe Says. WBUR News. https://www.wbur.org/news/2020/03/28/mashpee-wampanoag-reservation-secretary-interior-land-trust
-2. 
+2. Marcelo, P. (2020, March 30). Feds revoking reservation status for tribe’s 300 acres. Associated Press. https://apnews.com/104cd65675028163c5f8eb649740b1c9
+
