@@ -1,6 +1,7 @@
 ## &#35;StandWithMashpee Calls to Action Repo
 
 ### Principles and Practices
+**Examples only**, not from tribal government
 - Indigenous Environmental Network, Indigenous Principles of Just Transition
     - https://www.ienearth.org/justtransition/
 - The Red Nation, Principles of Unity
