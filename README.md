@@ -87,6 +87,8 @@ Qaqeemasq (Running Bear)
     - https://www.facebook.com/IhssaneLeckey/videos/665929124180411
 
 ### Statements from Legislators
+- Representative Bill Keating
+    - https://twitter.com/USRepKeating/status/1244002368943017984
 - Senators Markey and Warren Release Statement on the Mashpee Wampanoag Reservation
     - https://www.warren.senate.gov/newsroom/press-releases/senators-markey-and-warren-release-statement-on-the-mashpee-wampanoag-reservation
 - Bernie Sanders
