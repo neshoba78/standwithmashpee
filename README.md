@@ -1,5 +1,22 @@
 ## &#35;StandWithMashpee Calls to Action Repo
 
+### Principles and Practices
+- Indigenous Environmental Network, Indigenous Principles of Just Transition
+    - https://www.ienearth.org/justtransition/
+- The Red Nation, Principles of Unity
+    - https://therednation.org/manifesto/principles-of-unity/
+
+### Action Steps
+
+1. [Read](#mashpee-wampanoag-tribe-reservation-reaffirmation-act) the bills.
+2. Sign the MoveOn.org [petition](https://sign.moveon.org/petitions/stand-with-the-mashpee?fbclid=IwAR3ywOVe0y54HxEbWhOL7J-NH4trvQaOhh-jK5noSlUPVqDAujNCZbld7h8)
+3. [Call](https://www.govtrack.us/congress/members/MA) the Massachusetts Delegation
+4. [Write](https://mashpeewampanoagtribe-nsn.gov/standwithmashpee) to Senate Indian Affairs
+5. [Write](https://www.heron-hill.org/post/disestablish-reservation-land) to your Senator in your home state
+
+### TODO
+1. Need to populate table in [Broad Impacts](#broad-impacts)
+
 ### Message from the Chairman: We Will Take Action to Prevent the Loss of Our Land
 - https://mashpeewampanoagtribe-nsn.gov/news/2020/3/27/message-from-the-chairman-we-will-take-action-to-prevent-the-loss-of-our-land
 
@@ -20,17 +37,32 @@ Kutâputunumuw;
 Chairman Cedric Cromwell
 Qaqeemasq (Running Bear)
 
-### H.R.312 - Mashpee Wampanoag Tribe Reservation Reaffirmation Act
-
-- https://www.congress.gov/bill/116th-congress/house-bill/312
-
 ### Wôpanâak Language Reclamation Project, Stand With the Mashpee Wampanoag Tribe
 
-- https://sign.moveon.org/petitions/stand-with-the-mashpee?fbclid=IwAR3ywOVe0y54HxEbWhOL7J-NH4trvQaOhh-jK5noSlUPVqDAujNCZbld7h8
+- https://sign.moveon.org/petitions/stand-with-the-mashpee
 
 ### Mashpee Wampanoag Tribe, &#35;StandWithMashpee
 
 - https://mashpeewampanoagtribe-nsn.gov/standwithmashpee
+
+### Heron Hill, LLC, Disestablish Reservation Land? Contact Your Senator Today!
+
+- https://www.heron-hill.org/post/disestablish-reservation-land
+
+### Mashpee Wampanoag Tribe Reservation Reaffirmation Act
+
+- H.R.312 - Mashpee Wampanoag Tribe Reservation Reaffirmation Act
+    - https://www.congress.gov/bill/116th-congress/house-bill/312
+
+### Senate Carcieri v Salazar Fix
+
+- S.2808 - A bill to amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes.
+    - https://www.congress.gov/bill/116th-congress/senate-bill/2808
+
+### House Carcieri v Salazar Fix
+
+- H.R.375 - To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes.
+    - https://www.congress.gov/bill/116th-congress/house-bill/375
 
 ### Massachusetts Congressional Delegation
 
