@@ -1,5 +1,11 @@
 ## &#35;StandWithMashpee Calls to Action Repo
 
+### The Situation
+
+On March 27, 2020 Chairman Cedric Cromwell was notified by the Department of Interior that the Secretary moved to disestablish their reservation and take it out of trust. Despite their argument of a court mandate to do so, Chairman Cromwell states that there is no such court order. This action is not only harmful to the Mashpee Wampanoag Tribe but also hundreds of tribes impacted by the 2009 SCOTUS ruling Carcieri v Salazar. We need the Senate to pass H.R. 312 Mashpee Wampanoag Tribe Reservation Reaffirmation Act in veto proof numbers. We further need a clean legislative fix to Carcieri v Salazar that protects the ability of all tribes to rematriate their lands through a fee-to-trust process.
+
+The Mashpee Wampanoag Tribe’s citizens are currently suffering a massive loss of resources and services due to the uncertainty of the trust status of the Reservation. Millions of dollars of funding are being lost or delayed for our clean water program, our children’s education through our Mukayuhsak Weekuw immersion pre-school and kindergarten and critical community service programs. It’s also a direct threat to our emergency services, housing and substance abuse program that’s desperately needed to combat the opioid epidemic. These are just a few of the ways this negative ruling is impacting our community and our children. Please consider ways that you can help correct this injustice.
+
 ### Principles and Practices
 **Examples only**, not from tribal government
 - Indigenous Environmental Network, Indigenous Principles of Just Transition
@@ -84,3 +90,4 @@ Qaqeemasq (Running Bear)
 
 ### News and Information
 1. Levine, E., Mitchell, J., & Walters, Q. (2020, March 28). Secretary Of Interior Orders Mashpee Wampanoag Reservation “Disestablished,” Tribe Says. WBUR News. https://www.wbur.org/news/2020/03/28/mashpee-wampanoag-reservation-secretary-interior-land-trust
+2. 
