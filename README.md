@@ -12,7 +12,7 @@
 1. [Read](#mashpee-wampanoag-tribe-reservation-reaffirmation-act) the bills.
 2. Sign the MoveOn.org [petition](https://sign.moveon.org/petitions/stand-with-the-mashpee?fbclid=IwAR3ywOVe0y54HxEbWhOL7J-NH4trvQaOhh-jK5noSlUPVqDAujNCZbld7h8)
 3. [Call](https://www.govtrack.us/congress/members/MA) the Massachusetts Delegation
-4. [Write](https://mashpeewampanoagtribe-nsn.gov/standwithmashpee) to Senate Indian Affairs
+4. [Write](https://mashpeewampanoagtribe-nsn.gov/standwithmashpee) to Senate Indian Affairs Committee
 5. [Write](https://www.heron-hill.org/post/disestablish-reservation-land) to your Senator in your home state
 
 ### TODO
